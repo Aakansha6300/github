@@ -1,0 +1,67 @@
+  1  git status
+    2  ls -a
+    3  git status
+    4  ls -l
+    5  rm testing.py 
+    6  ls
+    7  git init 
+    8  git config --global core.filemode false
+    9  git init
+   10  cp -r /mnt/c/Users/Aakansha/Desktop/DevOps/github ~/github
+   11  cd ~/github
+   12  /home/aakansha/github
+   13  git init
+   14  ls
+   15  dir
+   16  ls -l
+   17  ls -a
+   18  git status
+   19  ls -a
+   20  git status
+   21  ls -a
+   22  git rev-parse --show-toplevel
+   23  git status
+   24  ~/github
+   25  ls -a
+   26  code .
+   27  ls -a
+   28  git status
+   29  uname -r
+   30  python testing.py
+   31  git status
+   32  pwd
+   33  ls -a
+   34  python3 testing.py
+   35  ls -a
+   36  code .
+   37  pwd
+   38  cd /home/aakansha/github/
+   39  git status
+   40  ls -a
+   41  python testing.py
+   42  rm testing.py 
+   43  ls -a
+   44  code .
+   45  cd /home/aakansha/github/
+   46  code .
+   47  git status
+   48  git add testing.py 
+   49  git status
+   50  git rm --cached
+   51  git rm --cached testing.py 
+   52  git status
+   53  git add testing.py 
+   54  git commit -m added testing files
+   55  git commit -m "added testing files"
+   56  git config user.name "Aakansha YourLastName"
+   57  git config user.email "your.email@example.com"
+   58  git commit -m "added testing files"
+   59  git status
+   60  ls 
+   61  ls -a
+   62  rm testing.py 
+   63  ls -s
+   64  git status
+   65  git restore testing.py 
+   66  ls -a
+   67  history
