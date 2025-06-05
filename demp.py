@@ -1,7 +1,7 @@
 def my_function():
     a = 1
-    password = 254186
-    return a + password
+    
+    return a 
 
 
 my_function()
